@@ -33,3 +33,7 @@
 <h3>👩‍💻 Desenvolvido por Kaedra Cardoso</h3>
 
 <p>Estudante de desenvolvimento web aprendendo HTML, CSS e JavaScript.</p>
+
+<h2>📸 Preview do Projeto</h2>
+
+<img src= https://github.com/kaedracardoso/Projeto-sorteio/blob/main/assests/devsorteio.png.jpeg />
